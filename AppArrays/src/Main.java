@@ -14,7 +14,7 @@ public class Main {
         int CAMB = 3;
 
         String config[][] = {
-                {"123.123.42.10", "userdesa02", "1234", "DESA", "otro campo"},   //0
+                {"123.123.42.10", "userdesa02", "1234", "DESA", "otro campo2"},   //0
                 {"123.123.42.12", "jkbe", "21231", "TEST"},        //1
                 {"www.google.com", "jkbenites", "alalals", "PROD"} //2
         };
